@@ -35,11 +35,11 @@ Algunos de los lenguajes con los que actualmente trabajo son
 			<td>Introduccion en donde desarrolle proyectos enfocados a fisicas con lenguaje de MatLab y Python</td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat"> 2 </th>
+			<th span="row"><a href="https://github.com/ChetaBurrito/SSProyectos.git"> 2 </th>
 			<td>Modelacion en 3D, programacion en C++ para la lectura de archivos</td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg"> 3 </a></th>
+			<th span="row"><a href="https://github.com/ChetaBurrito/TSProyectos.git"> 3 </a></th>
 			<td>Proyectos enfocados a el desarollo de objetos inteligentes con SQL, Arduino IDE los cuales estan conectados mediante una IPA en JavaScrip</td>
 		</tr>
 	</tbody>
