@@ -5,6 +5,7 @@
 
 Soy un estudiante del Instituto Tecnologico de Estudios Superiores de Monterrey, me gusta indagar en proyectos de programacion y actualmente me concentro en mis estudios y pequeños proyectos para practicar mi logica enfocada a la programacion.
 Fuera de la programacion y de los estudios disfruto mucho del ejercitarme, la musica y los perros.
+
 ---
 ## Proyectos y Conocimientos
 ---
