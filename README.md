@@ -1,11 +1,12 @@
 
-##Hola, me llamo Luis
+## Hola, me llamo Luis
+
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/LuisilloAmoroso)
 
 Soy un estudiante del Instituto Tecnologico de Estudios Superiores de Monterrey, me gusta indagar en proyectos de programacion y actualmente me concentro en mis estudios y pequeños proyectos para practicar mi logica enfocada a la programacion.
 Fuera de la programacion y de los estudios disfruto mucho del ejercitarme, la musica y los perros.
 ---
-##Proyectos y Conocimientos
+## Proyectos y Conocimientos
 ---
 
 Algunos de los lenguajes con los que actualmente trabajo son
@@ -20,13 +21,7 @@ Algunos de los lenguajes con los que actualmente trabajo son
 
 ---
 
-Proyectos escolares
-| Semestre | Descripcion                                                                                                                                |
-|---------:|--------------------------------------------------------------------------------------------------------------------------------------------|
-|         1| Introduccion en donde desarrolle proyectos enfocados a fisicas con lenguaje de MatLab y Python                                             |
-|         2| Modelacion en 3D, programacion en C++ para la lectura de archivos                                                                          |
-|         3| Proyectos enfocados a el desarollo de objetos inteligentes con SQL, Arduino IDE los cuales estan conectados mediante una IPA en JavaScrip  |
-
+### Proyectos escolares
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
@@ -52,12 +47,12 @@ Proyectos escolares
 
 ---
 
-Proyectos Vinculados
+### Proyectos Vinculados
 NA
 
 ---
 
-Proyectos personales
+### Proyectos personales
 NA
 
 ---
