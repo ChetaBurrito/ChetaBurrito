@@ -31,7 +31,7 @@ Algunos de los lenguajes con los que actualmente trabajo son
 	</thead>
 	<tbody>
 		<tr>
-			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint"> 1 </a></th>
+			<th span="row"><a href="https://github.com/ChetaBurrito/PSProyectos.git"> 1 </a></th>
 			<td>Introduccion en donde desarrolle proyectos enfocados a fisicas con lenguaje de MatLab y Python</td>
 		</tr>
 		<tr>
